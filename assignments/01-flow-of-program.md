@@ -1,4 +1,4 @@
-<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/fb5bcc03-4b1c-4647-b695-dfe75a4a9995" />[Video Link](https://youtu.be/lhELGQAV4gg)
+[Video Link](https://youtu.be/lhELGQAV4gg)
 
 ## Create flowchart and pseudocode for the following:
 
