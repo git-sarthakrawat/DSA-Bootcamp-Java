@@ -27,7 +27,7 @@
 ✅23. Input a number and print all the factors of that number (use loops).
 ✅24. Take integer inputs till the user enters 0 and print the sum of all numbers
 (HINT: while loop)
-❌25. Take integer inputs till the user enters 0 and print the largest number from
+❎25. Take integer inputs till the user enters 0 and print the largest number from
 all.
 ✅26. Addition Of Two Numbers
 
@@ -46,15 +46,15 @@ all.
 ✅12. Calculate Average Marks
 ✅13. Sum Of N Numbers
 ✅14. Armstrong Number In Java
-15. Find Ncr & Npr
-16. Reverse A String In Java
-17. Find if a number is palindrome or not 
-18. Future Investment Value
-19. HCF Of Two Numbers Program
-20. LCM Of Two Numbers
-21. Java Program Vowel Or Consonant 
-22. Perfect Number In Java
-23. Check Leap Year Or Not
-24. Sum Of A Digits Of Number
-25. Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.
-26. Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
+✅15. Find Ncr & Npr
+❌16. Reverse A String In Java
+✅17. Find if a number is palindrome or not 
+✅18. Future Investment Value
+✅19. HCF Of Two Numbers Program
+✅20. LCM Of Two Numbers
+✅21. Java Program Vowel Or Consonant 
+✅22. Perfect Number In Java
+✅23. Check Leap Year Or Not
+✅24. Sum Of A Digits Of Number
+✅25. Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.
+✅26. Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
